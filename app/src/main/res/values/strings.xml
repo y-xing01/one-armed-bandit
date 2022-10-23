@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">One Armed Bandit</string>
+
+    <string name="btn_spin">Spin</string>
+    <string name="btn_reset">Reset</string>
+
+    <string name="result_win">Winner</string>
+    <string name="result_lose">Bad Luck</string>
+
+    <string name="stat_num_of_spins_title">No. of Spins</string>
+    <string name="stat_num_of_spins_title_full">Number of Spins</string>
+    <string name="stat_num_of_wins_title">No. of Wins</string>
+    <string name="stat_num_of_wins_title_full">Number of Wins</string>
+    <string name="stat_win_spin_ratio_title">Win Ratio</string>
+
+    <string name="option_instructions">Instructions</string>
+    <string name="option_statistics">Statistics</string>
+
+    <string name="instructions">The aim of the game is to make sure that all of the poker cards on the screen match up - get them all, and you\'ll win!</string>
+</resources>

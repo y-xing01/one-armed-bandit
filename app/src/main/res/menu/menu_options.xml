@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/instructions"
+        android:icon="@drawable/ic_help"
+        android:title="@string/option_instructions"
+        app:showAsAction="ifRoom" />
+    <item android:id="@+id/statistics"
+        android:icon="@drawable/ic_statistics"
+        android:title="@string/option_statistics" />
+</menu>
